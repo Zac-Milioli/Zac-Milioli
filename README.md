@@ -3,10 +3,12 @@
 >Trago soluções em desenvolvimento e programação para problemas de engenharia no geral, com ênfase em engenharia civil.<br>Tenho alguns repositórios aqui para estudo, trabalhos de faculdade, documentação, testes de função e projetos pessoais. 
 
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Zac-Milioli&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zac-Milioli&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Zac-Milioli&theme=darkhub&column=-1&row=1&margin-w=4&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Zac-Milioli&theme=darkhub&column=3&row=1&margin-w=4&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=Zac-Milioli&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zac-Milioli&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="350" alt="activity-graph graph"  />
 </div>
 
 
