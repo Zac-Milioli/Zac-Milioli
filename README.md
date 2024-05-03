@@ -1,6 +1,6 @@
 # Desenvolvedor backend
 > [!NOTE]
->Trago soluções em desenvolvimento e programação para problemas de engenharia no geral, com ênfase em engenharia civil.<br>Tenho alguns repositórios aqui para estudo, trabalhos de faculdade, documentação, testes de função e projetos pessoais. 
+>Trago soluções em desenvolvimento e programação para problemas de engenharia no geral, com ênfase em engenharia civil.<br>Tenho alguns repositórios aqui para estudo, trabalhos de faculdade, documentação, testes de função, projetos pessoais, trabalhos científicos e softwares/ferramentas que desenvolvi. 
 
 
 <div align="center">
