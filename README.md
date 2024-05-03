@@ -2,6 +2,14 @@
 > [!NOTE]
 >Trago soluções em desenvolvimento e programação para problemas de engenharia no geral, com ênfase em engenharia civil.<br>Tenho alguns repositórios aqui para estudo, trabalhos de faculdade, documentação, testes de função e projetos pessoais. 
 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Zac-Milioli&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zac-Milioli&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Zac-Milioli&theme=darkhub&column=-1&row=1&margin-w=4&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+
 > [!TIP]
 > Confira o meu repositório [clicando aqui](https://github.com/Zac-Milioli/Code_Testing_and_General_Functions) para ver o geral do que aplico. Note que este repositório é utilizado principalmente para estudos, testes e documentações, portanto meu trabalho se extende além dele para outros repositórios, este serve apenas para referências de código e experimentar coisas novas.
 
@@ -31,6 +39,7 @@
 - Brainstorming
 
 </details>
+
 
 <h2 align="center">Principais linguagens</h2>
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
