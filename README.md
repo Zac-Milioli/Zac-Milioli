@@ -11,7 +11,7 @@
 
 
 > [!TIP]
-> Confira o meu repositório [clicando aqui](https://github.com/Zac-Milioli/Code_Testing_and_General_Functions) para ver o geral do que aplico. Note que este repositório é utilizado principalmente para estudos, testes e documentações, portanto meu trabalho se extende além dele para outros repositórios, este serve apenas para referências de código e experimentar coisas novas.
+> Confira o meu repositório geral pessoal [clicando aqui](https://github.com/Zac-Milioli/Code_Testing_and_General_Functions). Note que este repositório é utilizado principalmente para estudos, testes e documentações, portanto meu trabalho se extende além dele para outros repositórios, este serve apenas para referências de código e experimentar coisas novas.
 
 <details><summary><strong>Um pouco do que faço ou já fiz:</strong></summary>
 
