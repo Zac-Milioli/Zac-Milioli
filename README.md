@@ -18,6 +18,7 @@
 - Frontend com python (streamlit, tkinter e customtkinter)
 - Design de interface
 - Levantamento de requisitos
+- Testes unitários
 - Scrum
 - Kanban
 - Apresentação de software, ideias e pesquisas
