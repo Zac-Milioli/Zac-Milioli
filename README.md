@@ -4,11 +4,10 @@
 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Zac-Milioli&theme=darkhub&column=3&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true&order=4" height="140" alt="trophy graph"  />
-  <img src="https://streak-stats.demolab.com?user=Zac-Milioli&locale=pt-br&mode=weekly&theme=github_dark&hide_border=true&border_radius=0&order=3" height="160" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zac-Milioli&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="350" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Zac-Milioli&theme=buddhism&column=3&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true&order=4" height="140" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=Zac-Milioli&locale=pt-br&mode=weekly&theme=swift&hide_border=true&border_radius=0&order=3" height="160" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zac-Milioli&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true" height="350" alt="activity-graph graph"  />
 </div>
-
 
 > [!TIP]
 > Confira o meu repositório geral pessoal [clicando aqui](https://github.com/Zac-Milioli/Code_Testing_and_General_Functions). Note que este repositório é utilizado principalmente para estudos, testes e documentações, portanto meu trabalho se extende além dele para outros repositórios, este serve apenas para referências de código e experimentar coisas novas.
