@@ -1,4 +1,4 @@
-# Desenvolvedor backend
+# Engenharia de Software e Desenvolvimento Backend
 > [!NOTE]
 >Trago soluções em desenvolvimento e programação para problemas de engenharia no geral, com ênfase em engenharia civil.<br>Tenho alguns repositórios aqui para estudo, trabalhos de faculdade, documentação, testes de função, projetos pessoais, trabalhos científicos e softwares/ferramentas que desenvolvi. 
 
