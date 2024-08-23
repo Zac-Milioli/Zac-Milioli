@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bbd94d8b-ec6a-4eb3-840e-3fd36d332dcd)# Engenharia de Software e Desenvolvimento Backend
+# Engenharia de Software e Desenvolvimento Backend
 > [!NOTE]
 >Trago soluções em desenvolvimento e programação para problemas de engenharia no geral, com ênfase em engenharia civil.<br>Tenho alguns repositórios aqui para estudo, trabalhos de faculdade, documentação, testes de função, projetos pessoais, trabalhos científicos e softwares/ferramentas que desenvolvi. 
 
