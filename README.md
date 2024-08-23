@@ -55,6 +55,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://www.ni.com/en/support/downloads/software-products/download.labview.html?srsltid=AfmBOopZ8mLZkQ4k2aQ7vz8_MvIgPaEskChOLXk9LBlO3-BRtIDiRqlL#544096" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/national-instruments-labview-logo-789253587D-seeklogo.com.png" alt="labview" width="40" height="40"/> </a>  
 <br>
 <a href="https://customtkinter.tomschimansky.com/" target="_blank" rel="noreferrer"> <img src="https://customtkinter.tomschimansky.com/img/icon.ico" alt="customtkinter" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
