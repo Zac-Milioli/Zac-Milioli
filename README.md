@@ -1,4 +1,4 @@
-# Engenharia de Software e Desenvolvimento Backend
+![image](https://github.com/user-attachments/assets/bbd94d8b-ec6a-4eb3-840e-3fd36d332dcd)# Engenharia de Software e Desenvolvimento Backend
 > [!NOTE]
 >Trago soluções em desenvolvimento e programação para problemas de engenharia no geral, com ênfase em engenharia civil.<br>Tenho alguns repositórios aqui para estudo, trabalhos de faculdade, documentação, testes de função, projetos pessoais, trabalhos científicos e softwares/ferramentas que desenvolvi. 
 
@@ -71,6 +71,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/pt-br/download/windows" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2235/PNG/512/windows_os_logo_icon_134674.png" alt="windows" width="40" height="40"/> </a>
 <br>
+<a href="https://trello.com/pt-BR?&aceid=&adposition=&adgroup=148159506607&campaign=19269516466&creative=641463051732&device=c&keyword=trello&matchtype=e&network=g&placement=&ds_kids=p74543507295&ds_e=GOOGLE&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gclid=CjwKCAjw5qC2BhB8EiwAvqa41n3CpvAamA1hEodEq_FhiXOpzfo6MFESOAR8YsdNVyX6ISaCBihs1RoCemkQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/trello_macos_bigsur_icon_189616.png" alt="trello" width="40" height="40"/> </a>
 <a href="https://camunda.com/download/modeler/" target="_blank" rel="noreferrer"> <img src="https://camunda.com/wp-content/uploads/camunda/blog-images/4-icon.png" alt="camunda modeler" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="excel" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/pt-br/microsoft-365/word" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/1200px-Microsoft_Word_2013-2019_logo.svg.png" alt="word" width="40" height="40"/> </a>
