@@ -66,7 +66,7 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/brand-github-copilot-icon-2048x1775-2h15dc8k.png" alt="github copilot" width="40" height="40"/> </a>
+<a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/github-copilot-logo-C25AFBDF08-seeklogo.com.png" alt="github copilot" width="40" height="40"/> </a>
 <a href="https://www.onsetcomp.com/" target="_blank" rel="noreferrer"> <img src="https://aeeeast.org/wp-content/uploads/2021/04/hobo-800-300x300.png" alt="hobo onset data loggers" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/pt-br/download/windows" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2235/PNG/512/windows_os_logo_icon_134674.png" alt="windows" width="40" height="40"/> </a>
