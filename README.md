@@ -59,6 +59,8 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://slack.com/intl/pt-br" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkefdT7j2aMVYVH2HICKIOFQ29BKEaqOLORSFSqbhSA&s" alt="slack" width="40" height="40"/> </a>
 <a href="https://www.giuspen.net/cherrytree/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/cherrytree/images/cherrytree-logo.svg" alt="cherrytree" width="40" height="40"/> </a>
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjhvJLxr5iIAxUaLrkGHSaUCZwQFnoECB0QAQ&url=https%3A%2F%2Fapp.diagrams.net%2F&usg=AOvVaw28S23h4_WI8toant9FYDpi&opi=89978449" target="_blank" rel="noreferrer"> <img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" alt="drawio" width="40" height="40"/> </a>
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi__r-NsJiIAxXzIbkGHdXzHDEQFnoECAkQAQ&url=https%3A%2F%2Fopenai.com%2Fchatgpt%2F&usg=AOvVaw1ZumOaGlg5o8_PrNzZDmeO&opi=89978449" target="_blank" rel="noreferrer"> <img src="https://freepnglogo.com/images/all_img/1700403373logo-chatgpt-png.png" alt="chatgpt" width="40" height="40"/> </a>
 <br>
 <a href="https://www.microsoft.com/pt-br/download/windows" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2235/PNG/512/windows_os_logo_icon_134674.png" alt="windows" width="40" height="40"/> </a>
 </p>
