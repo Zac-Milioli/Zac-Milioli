@@ -66,7 +66,7 @@
 </p>
 
 
-<h2 align="center">Estudei o básico / Já trabalhei com</h2>
+<h2 align="center">Estudei o básico / Estou estudando / Já trabalhei com</h2>
 <p align="center">
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
