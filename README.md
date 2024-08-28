@@ -64,7 +64,7 @@
 </p>
 
 
-<h2 align="center">Sei o básico / Já trabalhei com</h2>
+<h2 align="center">Estudei o básico / Já trabalhei com</h2>
 <p align="center">
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
