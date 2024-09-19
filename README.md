@@ -9,6 +9,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zac-Milioli&radius=16&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=true" height="350" alt="activity-graph graph"  />
 </div>
 
+
 > [!TIP]
 > Confira o meu repositório geral pessoal [clicando aqui](https://github.com/Zac-Milioli/Code_Testing_and_General_Functions). Note que este repositório é utilizado principalmente para estudos, testes e documentações, portanto meu trabalho se extende além dele para outros repositórios, este serve apenas para referências de código e experimentar coisas novas.
 
@@ -103,3 +104,7 @@
 <a href="https://linkedin.com/in/zac-milioli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zac-milioli" height="30" width="40" /></a>
 <a href="https://instagram.com/zac-milioli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zac-milioli" height="30" width="40" /></a>
 </p>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zac-Milioli&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=13&theme=highcontrast&hide_border=true&order=2&custom_title=Linguagens" height="300" alt="languages graph"  />
+</div>
