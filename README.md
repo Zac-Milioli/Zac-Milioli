@@ -104,9 +104,3 @@
 <a href="https://linkedin.com/in/zac-milioli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zac-milioli" height="30" width="40" /></a>
 <a href="https://instagram.com/zac-milioli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zac-milioli" height="30" width="40" /></a>
 </p>
-
-
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zac-Milioli&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=13&theme=highcontrast&hide_border=true&order=2&custom_title=Linguagens" height="300" alt="languages graph"  />
-</div>
