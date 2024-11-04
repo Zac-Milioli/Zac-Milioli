@@ -1,6 +1,6 @@
 # Engenharia de Software e Desenvolvimento Backend
 > [!NOTE]
->Trabalho com soluções em desenvolvimento, engenharia de software, análise de dados e programação em geral.<br>Tenho alguns repositórios aqui para estudo, trabalhos de faculdade, documentação, testes de função, projetos pessoais, trabalhos científicos e softwares/ferramentas que desenvolvi. 
+>Trabalho com soluções em desenvolvimento geral, engenharia de software, análise de dados e automações.<br>Tenho alguns repositórios aqui para estudo, trabalhos de faculdade, documentação, testes de função, projetos pessoais, trabalhos científicos e softwares/ferramentas que desenvolvi. 
 
 
 <div align="center">
