@@ -26,7 +26,7 @@
 - Frontend com python (streamlit, tkinter e customtkinter)
 - Design de interface
 - Levantamento de requisitos
-- Testes unitários
+- Testes unitários e de integração
 - Scrum
 - Kanban
 - Apresentação de software, ideias e pesquisas
@@ -37,6 +37,9 @@
 - Storytelling
 - User stories
 - Brainstorming
+- Desenvolvimento de API Rest
+- Implementação de CI/CD
+- Uso de linters
 
 </details>
 
@@ -48,6 +51,7 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" alt="fastapi" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> </a>
+<a href="https://docs.pytest.org/en/stable/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.i-oFlHz_u4ksnO2rJPCNaAHaHa?rs=1&pid=ImgDetMain" alt="pytest" width="40" height="40"/> </a>
 <br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/github-copilot-logo-C25AFBDF08-seeklogo.com.png" alt="github copilot" width="40" height="40"/> </a>
