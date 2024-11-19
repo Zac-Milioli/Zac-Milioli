@@ -85,6 +85,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://pt-br.legacy.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/react-3.png" alt="react" width="40" height="40"/> </a>
+<a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-jest-icon-1854x2048-2w6gjixc.png" alt="jest" width="40" height="40"/> </a>
 <br>
 <a href="https://mapsplatform.google.com/" target="_blank" rel="noreferrer"> <img src="https://fonts.gstatic.com/s/i/productlogos/maps/v7/192px.svg" alt="google maps platform" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
