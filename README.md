@@ -48,6 +48,7 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" alt="fastapi" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> </a>
+<br>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/github-copilot-logo-C25AFBDF08-seeklogo.com.png" alt="github copilot" width="40" height="40"/> </a>
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi__r-NsJiIAxXzIbkGHdXzHDEQFnoECAkQAQ&url=https%3A%2F%2Fopenai.com%2Fchatgpt%2F&usg=AOvVaw1ZumOaGlg5o8_PrNzZDmeO&opi=89978449" target="_blank" rel="noreferrer"> <img src="https://freepnglogo.com/images/all_img/1700403373logo-chatgpt-png.png" alt="chatgpt" width="40" height="40"/> </a>
