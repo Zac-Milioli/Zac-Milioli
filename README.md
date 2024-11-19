@@ -45,23 +45,20 @@
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <br>
+<br>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" alt="fastapi" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> </a>
-<br>
-<a href="https://mapsplatform.google.com/" target="_blank" rel="noreferrer"> <img src="https://fonts.gstatic.com/s/i/productlogos/maps/v7/192px.svg" alt="google maps platform" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/github-copilot-logo-C25AFBDF08-seeklogo.com.png" alt="github copilot" width="40" height="40"/> </a>
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi__r-NsJiIAxXzIbkGHdXzHDEQFnoECAkQAQ&url=https%3A%2F%2Fopenai.com%2Fchatgpt%2F&usg=AOvVaw1ZumOaGlg5o8_PrNzZDmeO&opi=89978449" target="_blank" rel="noreferrer"> <img src="https://freepnglogo.com/images/all_img/1700403373logo-chatgpt-png.png" alt="chatgpt" width="40" height="40"/> </a>
 <br>
 <a href="https://trello.com/pt-BR?&aceid=&adposition=&adgroup=148159506607&campaign=19269516466&creative=641463051732&device=c&keyword=trello&matchtype=e&network=g&placement=&ds_kids=p74543507295&ds_e=GOOGLE&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gclid=CjwKCAjw5qC2BhB8EiwAvqa41n3CpvAamA1hEodEq_FhiXOpzfo6MFESOAR8YsdNVyX6ISaCBihs1RoCemkQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/trello_macos_bigsur_icon_189616.png" alt="trello" width="40" height="40"/> </a>
 <a href="https://camunda.com/download/modeler/" target="_blank" rel="noreferrer"> <img src="https://camunda.com/wp-content/uploads/camunda/blog-images/4-icon.png" alt="camunda modeler" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="excel" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/pt-br/microsoft-365/word" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/1200px-Microsoft_Word_2013-2019_logo.svg.png" alt="word" width="40" height="40"/> </a>
-<a href="https://www.notion.so/pt-br" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" alt="notion" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://slack.com/intl/pt-br" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkefdT7j2aMVYVH2HICKIOFQ29BKEaqOLORSFSqbhSA&s" alt="slack" width="40" height="40"/> </a>
-<a href="https://www.giuspen.net/cherrytree/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/cherrytree/images/cherrytree-logo.svg" alt="cherrytree" width="40" height="40"/> </a>
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjhvJLxr5iIAxUaLrkGHSaUCZwQFnoECB0QAQ&url=https%3A%2F%2Fapp.diagrams.net%2F&usg=AOvVaw28S23h4_WI8toant9FYDpi&opi=89978449" target="_blank" rel="noreferrer"> <img src="https://store-images.s-microsoft.com/image/apps.1409.13851527096222888.2b60149a-04a5-4578-a6b2-d7b7377332d5.c22d8e97-4d44-4304-9bd2-55f9d29c0f82" alt="drawio" width="40" height="40"/> </a>
-<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi__r-NsJiIAxXzIbkGHdXzHDEQFnoECAkQAQ&url=https%3A%2F%2Fopenai.com%2Fchatgpt%2F&usg=AOvVaw1ZumOaGlg5o8_PrNzZDmeO&opi=89978449" target="_blank" rel="noreferrer"> <img src="https://freepnglogo.com/images/all_img/1700403373logo-chatgpt-png.png" alt="chatgpt" width="40" height="40"/> </a>
 <br>
 <a href="https://www.microsoft.com/pt-br/download/windows" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2235/PNG/512/windows_os_logo_icon_134674.png" alt="windows" width="40" height="40"/> </a>
 </p>
@@ -83,7 +80,9 @@
 <a href="https://customtkinter.tomschimansky.com/" target="_blank" rel="noreferrer"> <img src="https://customtkinter.tomschimansky.com/img/icon.ico" alt="customtkinter" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40"/> </a>
+<a href="https://pt-br.legacy.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/react-3.png" alt="react" width="40" height="40"/> </a>
 <br>
+<a href="https://mapsplatform.google.com/" target="_blank" rel="noreferrer"> <img src="https://fonts.gstatic.com/s/i/productlogos/maps/v7/192px.svg" alt="google maps platform" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://www.onsetcomp.com/" target="_blank" rel="noreferrer"> <img src="https://aeeeast.org/wp-content/uploads/2021/04/hobo-800-300x300.png" alt="hobo onset data loggers" width="40" height="40"/> </a>
@@ -96,6 +95,7 @@
 <a href="https://energyplus.net/" target="_blank" rel="noreferrer"> <img src="https://energyplus.net/assets/images/eplus_logo.png" alt="energyplus" width="40" height="40"/> </a>
 <a href="https://www.openpgp.org/software/kleopatra/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1358/1*4uIoctWAaf5icg5XzPpy_w.png" alt="kleopatra pgp" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/pt-br/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://wakatime.com/static/img/editor-icons/sql-server-management-studio-128.png" alt="sql server manager" width="40" height="40"/> </a>
+<a href="https://www.giuspen.net/cherrytree/" target="_blank" rel="noreferrer"> <img src="https://www.kali.org/tools/cherrytree/images/cherrytree-logo.svg" alt="cherrytree" width="40" height="40"/> </a>
 </p>
 
 
