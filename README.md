@@ -40,6 +40,7 @@
 - Desenvolvimento de API Rest
 - Implementação de CI/CD
 - Uso de linters
+- Desenvolvimento de sistemas com IA para análise de dados e extração de informações
 
 </details>
 
