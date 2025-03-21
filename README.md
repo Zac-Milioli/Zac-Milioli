@@ -1,6 +1,6 @@
 # Engenharia de Software e Desenvolvimento Backend
 > [!NOTE]
->Trabalho com soluções em desenvolvimento backend geral, engenharia de software, análise de dados, automações e aplicação de inteligência artificial para análises, sínteses e extração de informações integradas à sistemas.<br>Tenho alguns repositórios aqui para estudo, trabalhos de faculdade, documentação, testes de função, projetos pessoais, trabalhos científicos e softwares/ferramentas que desenvolvi. 
+>Trabalho com soluções em desenvolvimento backend geral, engenharia de software, análise de dados, automações e integrações com IA.<br>Tenho alguns repositórios aqui para estudo, trabalhos de faculdade, documentação, testes de função, projetos pessoais, trabalhos científicos e softwares/ferramentas que desenvolvi. 
 
 
 <div align="center">
@@ -41,7 +41,8 @@
 - Implementação de CI/CD
 - Uso de linters
 - Engenharia de Prompt
-- IA para análise de dados e extração de informações
+- Integração com IA
+- Paralelismo (multithreading, multiprocessing)
 
 </details>
 
