@@ -43,6 +43,7 @@
 - Engenharia de Prompt
 - Integração com IA
 - Paralelismo (multithreading, multiprocessing)
+- Diagramas UML
 
 </details>
 
