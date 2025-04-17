@@ -1,4 +1,4 @@
-# Engenharia de Software e Desenvolvimento Backend
+# Desenvolvimento de Softwares de Inovação com Inteligência Artificial
 > [!NOTE]
 >Trabalho com soluções em desenvolvimento backend geral, engenharia de software, análise de dados, automações e integrações com IA.<br>Tenho alguns repositórios aqui para estudo, trabalhos de faculdade, documentação, testes de função, projetos pessoais, trabalhos científicos e softwares/ferramentas que desenvolvi. 
 
